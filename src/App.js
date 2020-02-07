@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Toolbar from "./components/Toolbar/Toolbar";
 import SideDrawer from "./components/SideDrawer/SideDrawer";
 import Backdrop from "./components/Backdrop/Backdrop";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import Page from "./components/Page";
 
 class App extends Component {
@@ -27,7 +27,7 @@ class App extends Component {
       backdrop = <Backdrop click={this.backdropClickHandler} />;
     }
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div style={{ height: "100%" }}>
           <Toolbar drawerClickHandler={this.drawerToggleClickHandler} />
           <SideDrawer show={this.state.sideDrawerOpen} />
@@ -35,7 +35,7 @@ class App extends Component {
 
           {<Page />}
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
