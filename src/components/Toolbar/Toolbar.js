@@ -3,6 +3,7 @@ import styled from "styled-components";
 import DrawerToggleButton from "../SideDrawer/DrawerToggleButton";
 import Nav from "../Navigation/Navigation";
 import LogoMapa from "../../images/logomapa.jpg";
+import { Link } from "react-router-dom";
 
 const ToolbarHeader = styled.header`
 
@@ -92,7 +93,7 @@ const toolbar = props => (
         <DrawerToggleButton click={props.drawerClickHandler} />
       </div>
       <div className="toolbar__logo">
-        <a href="/">Rzeszów wczóraj, dziś i jutro</a>
+        <Link to="/">Rzeszów wczoraj, dziś i jutro</Link>
       </div>
       <div className="spacer" />
       <div className="toolbar_navigation-items">
