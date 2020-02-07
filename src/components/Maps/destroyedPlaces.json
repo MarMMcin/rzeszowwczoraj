@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D1",
+
+        "NAME": "Kamienice na Rynku obok Ratusza",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/68646799_2346414552093590_3901400458912071680_o.jpg?_nc_cat=101&_nc_eui2=AeGV5y5l7cw21rlXnzC7qCMo1_FkYVZTpnvBkm9RsNG5NaDNNPXrI7OcF-1YaNB63JmlNP9R-IAOcVXMZ5WWz3H8DRCr8emEUxtLdH_M_SSSig&_nc_ohc=sqpHJ8GaXgQAQn4ug9mafPUM-9nj0N23YJATvyT27ny2o11KuT_3XpbvQ&_nc_ht=scontent-waw1-1.xx&oh=c909bcfca3e9cda6476b60f66e11c956&oe=5E3ECBC3",
+        "AUTHOR": "Ben Jop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037557, 22.004035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D2",
+
+        "NAME": "Kamienice na zapleczu Ratusza",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/58689282_2155848037816910_8268366589502423040_o.jpg?_nc_cat=108&_nc_ohc=FeXGyxEDUmsAQlRw-pO_tRid4S8sdEsvkZxtaB1hamBRRBjFe7vOLvJNQ&_nc_ht=scontent-waw1-1.xx&oh=e7c6dcea5320f2530625cb8b9405c2c0&oe=5E8C2985",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.03714, 22.00404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D3",
+
+        "NAME": "Kamienica na rogu Słowackiego i Króla Kazimierza",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57935999_2154145254653855_4263970001628692480_o.jpg?_nc_cat=108&_nc_ohc=7XnMCHage3AAQmtkiULc3ujwcQazZK2iw9qbX_UKif_4DkMPi2enVNwOA&_nc_ht=scontent-waw1-1.xx&oh=6c89874c8a908939f09e08d007a07841&oe=5E4E2777",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.036836, 22.004019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D4",
+
+        "NAME": "Kamienica przy skrzyżowaniu ulic Mickiewicza i Joselewicza",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/15100/Galeria/262.JPG?handler=mono-jpg_js",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037419, 22.006684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D5",
+
+        "NAME": "Kamienica przy ul.Mickiewicza ",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/15103/Galeria/265.JPG?handler=mono-jpg_js",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037691, 22.006669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D6",
+
+        "NAME": "Jatki Miejskie",
+        "DESCRIPTION": "Budynek został wyburzony a od 1939 roku stoi na jego miejscu kamienica Schaittrów ",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/45013092_2017710724984534_5753961647727181824_n.png?_nc_cat=101&_nc_eui2=AeHbAR7M_x3Knlgc_9FgUsukxgkFPMt_VycNsRHNaCJz2bFkR6aCzmLtFghwwwGljBR-SaWuetF9DmeCoxg-P8HVTTTzZaDeLEZ6mhV8nReLhQ&_nc_ohc=W6vkEyLb36kAQmczo2BDOKsVdMu1oF4mQu43qAuqHs7GxVixLiysQ5J2g&_nc_ht=scontent-waw1-1.xx&oh=4388ebe15191b9e4cfa17cb73287e435&oe=5E423E42",
+        "AUTHOR": "Edward Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038001, 22.002946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D7",
+
+        "NAME": "Most Lwowski",
+        "DESCRIPTION": "Most został wysadzony przez wycofujące się odziały niemieckie",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "bridge",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/16059/Galeria/most_na_wisloku_3.jpg?handler=mono-jpg_js",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038832, 22.015231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D8",
+
+        "NAME": "Kładka nad torami przy ul. Jabłońskiego",
+        "DESCRIPTION": "Kładka łaczyła ul.Jabłońskiego z ul. Ujejskiego",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "bridge",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-0/s240x240/71666270_2449491828452528_2203718135842865152_o.jpg?_nc_cat=104&_nc_eui2=AeH2MBftCCbz3lvDjPQqPYI1R30-6AjtVzary8NABWXI-PCjw-v7KfICBTFhzjj5ct5Y67SdbejzCThXamRlI9QsM4P3b4QqL7C51rBOeOOcnQ&_nc_ohc=oRiMjefl8KYAQlJ0x9f5X-yqozHkffkyh8eq9FdJFx5uOm1smCTTv8H-Q&_nc_ht=scontent-waw1-1.xx&oh=2110e3f13fdbef7863e2ab9a57559f59&oe=5E427D8F",
+        "AUTHOR": "Ben Jop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.042525, 22.002173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D9",
+
+        "NAME": "Kamienica Klarneta",
+        "DESCRIPTION": "Kamienica do 1944 roku zamykała ul.Sobieskiego, zniszczona przez Niemców",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57015667_2141598585908522_3032341335832002560_n.jpg?_nc_cat=105&_nc_eui2=AeFynhCm8hW3PYBOBd-aq2ykTklI76mXPQv9BDahPdrBDozIhnc-DwNj_p02_lq5jR7ubWgTjD1q8mAIL75fssYydbnhX1xCVrXfrwRs-HlQZw&_nc_ohc=XIdog4hDmOAAQl8dKAV_MFhh7WxNP2MaSUGYa9JAxmo1uxM7DoKA7SkPg&_nc_ht=scontent-waw1-1.xx&oh=cc9a8fa6c74c0ab0240ceb6c87ef5d13&oe=5E8845CF",
+        "AUTHOR": "Ben Jop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039782, 22.00287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D10",
+
+        "NAME": "Willa Aniela",
+        "DESCRIPTION": "Budynek zniszczony podczasz bombarodwnia Rzeszowa w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://pbc.rzeszow.pl/Content/16039/Galeria/willa_aniela.jpg?handler=mono-jpg_js",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.03389, 21.998579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D11",
+
+        "NAME": "Kamienica przy ulic Słowackiego",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/67947159_2349764348425277_2318256383822135296_n.jpg?_nc_cat=104&_nc_ohc=Ds2UnKrKemQAX8pTSmv&_nc_ht=scontent-waw1-1.xx&oh=0ed13732eb31436263c0cf2247ad1c59&oe=5EB9F05A",
+        "AUTHOR": "Ben Job"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.036447, 22.003352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D12",
+
+        "NAME": "Hotel Bristol",
+        "DESCRIPTION": "Hotel został zbombardowany przez Niemców w 1939 roku",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/83091391_2846332368789028_8227399709669457920_o.jpg?_nc_cat=104&_nc_ohc=V4z-lNGEthcAX-c5WZJ&_nc_ht=scontent-waw1-1.xx&oh=bfc8584df78d203ac3676392a28a2c92&oe=5ED028D1",
+        "AUTHOR": "Facebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.041153, 22.008449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D13",
+
+        "NAME": "Kamienice przy ul. Zamkowej",
+        "DESCRIPTION": "Kamienice zostały wyburzone podczas budowy ul.Lisa-Kuli",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t31.0-8/p960x960/26952354_1648836311871979_3150078826883452247_o.jpg?_nc_cat=102&_nc_ohc=ELY7IL1SwZUAX9aAlWV&_nc_ht=scontent-waw1-1.xx&_nc_tp=6&oh=eaeb7836583f41efb45e872727e48da0&oe=5ED78601",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.033408, 21.998696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D14",
+
+        "NAME": "Budynek dawnej poczty",
+        "DESCRIPTION": "",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/969394_495708653851423_1949131635_n.jpg?_nc_cat=103&_nc_ohc=VfHGM2La-Q8AX-FTuT6&_nc_ht=scontent-waw1-1.xx&oh=c04134c8656b3665aafe9a14f8513ada&oe=5ED28FCF",
+        "AUTHOR": "Facebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039255, 22.013164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D15",
+
+        "NAME": "Dach synagogi nowomiejskiej",
+        "DESCRIPTION": "Spalona przez Niemców w 1944 roku",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/19895_474478162641139_826960349_n.jpg?_nc_cat=104&_nc_ohc=L-p8nqMnH1QAX8pJ4pT&_nc_ht=scontent-waw1-1.xx&oh=82c08d9dd7dc0c4ffbeb077c87ba45c5&oe=5EC330E4",
+        "AUTHOR": "Facebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038683, 22.007585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D16",
+
+        "NAME": "Prom Nitki",
+        "DESCRIPTION": "prom dawniej był jedyną opacja przeprawy na drugą storne Wisłoka",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/484680_480229482066007_207884024_n.jpg?_nc_cat=107&_nc_ohc=2yThQVOkPw0AX8f_gwO&_nc_ht=scontent-waw1-1.xx&oh=6ce14ea81cb62c0edc68fa05c4d2e18a&oe=5EBBBCEC",
+        "AUTHOR": "Facebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.02451, 22.001824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D17",
+
+        "NAME": "Kamienice oraz Most",
+        "DESCRIPTION": "Kamienice zostały wyburzone w latach 70, dzisiaj na ich miejscu znajduje się hipermarket budowlany",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/58381725_2152503244818056_6062449207065706496_o.jpg?_nc_cat=107&_nc_ohc=NLhdeohYAA8AX_RfBCB&_nc_ht=scontent-waw1-1.xx&oh=fedbb96aa135571dd7b1d5db76ce8d42&oe=5ED70153",
+        "AUTHOR": "Ben Job"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038435, 22.016139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D18",
+
+        "NAME": "Kamienica na Skrzyżowaniu Mickiewicza oraz Bożniczej",
+        "DESCRIPTION": "Zniszczona przez Niemców",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/s960x960/78049571_447500419481480_3852932757999058944_o.jpg?_nc_cat=101&_nc_ohc=x50rmKgttnIAX8qY4lA&_nc_ht=scontent-waw1-1.xx&oh=30898e9cc664caf250774158ff37efca&oe=5ED28AA1",
+        "AUTHOR": "Zasoby Kierownika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037756, 22.006937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D19",
+
+        "NAME": "Kładka na Wisłoku",
+        "DESCRIPTION": "służyła do przeprawy na drugą stronę Wisłoka",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/s960x960/51342251_135082234191579_3612866231004037120_o.jpg?_nc_cat=101&_nc_ohc=HD-Wr1oJ1WQAX-I3dny&_nc_ht=scontent-waw1-1.xx&oh=9f638cf46f8e05baeb601f01f0ff51c7&oe=5ECB3E82",
+        "AUTHOR": "Jacek Stankiewicz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.01617, 21.996845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D20",
+
+        "NAME": "Kino Przodownik",
+        "DESCRIPTION": "uruchomione 07.11.1951r. funkcjonowało do 1973 roku",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/66648307_2126547350807402_6759681270046785536_n.jpg?_nc_cat=102&_nc_ohc=YxtGWX-m7UoAX-131av&_nc_ht=scontent-waw1-1.xx&oh=0ecb764a26e6f1efd69949703249c2f5&oe=5ED12F1B",
+        "AUTHOR": "Vito Macaluso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.020524, 21.990213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D21",
+
+        "NAME": "Cegielnia",
+        "DESCRIPTION": "znajdowałą się na miejscu dawnego hipermarketu Tesco, zburzona pod koniec lat 90",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/p960x960/61728196_2725862554154910_1484335500587171840_o.jpg?_nc_cat=111&_nc_ohc=x8eGT0vu7sMAX8PKbJr&_nc_ht=scontent-waw1-1.xx&_nc_tp=6&oh=b729abd7e1e02340eed1514082473233&oe=5EBDC53F",
+        "AUTHOR": "Vito Macaluso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.019766, 22.012792]
+      }
+    }
+  ]
+}
