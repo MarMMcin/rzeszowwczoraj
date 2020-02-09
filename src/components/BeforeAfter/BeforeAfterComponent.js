@@ -6,25 +6,36 @@ import BeforeAfterSlider from "react-before-after-slider";
 let width = 640;
 let height = 480;
 const Container = styled.div`
-  width: 0;
-  margin: 0 !important;
+  width: 100%;
+  overflow: hidden;
+  :first-child {
+    margin-top: 5vh;
+  }
+
   display: flex;
-  margin: 0;
-  padding: 0;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 `;
 
 const Text = styled.p`
+  width: 100%;
+  padding-bottom: 40px;
+  overflow: hidden;
+
   a {
     text-decoration: none;
     color: #666;
   }
 `;
-const Main = styled.main`text-align: center
+const Main = styled.main`
   z-index: 1;
+  overflow: hidden;
 `;
 const StyledSlider = styled(BeforeAfterSlider)`
-
+  overflow: hidden;
   touch-action: none;
  
   }
