@@ -37,7 +37,7 @@ class Vehicles extends Component {
         />{" "}
         <p>
           Mapa przedstawia budynki, które kiedyś znajdowały się w naszym
-          mieście. Czerwona pinezka wskzuje historyczną lokalizację obiektu. Po
+          mieście. Niebieska pinezka wskzuje historyczną lokalizację obiektu. Po
           jej naciśnięciu pojawiają się informacje o&nbsp;budynku oraz jego
           fotografia. Aby powiększyć zdjęcie należy je kliknąć. Jeżeli mają
           Państwo jakieś propozcyję/prośby o&nbsp;umieszczenie budynków, których

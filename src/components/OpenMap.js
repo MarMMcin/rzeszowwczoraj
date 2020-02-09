@@ -32,7 +32,7 @@ const Container = styled.div`
   }
 `;
 export const icon = new Icon({
-  iconUrl: "/marker.svg",
+  iconUrl: "https://i.imgur.com/reqn45t.png",
   iconSize: [40, 40]
 });
 
