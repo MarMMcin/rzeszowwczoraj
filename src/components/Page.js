@@ -1,9 +1,10 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
 import OFirmie from "../components/OFirmie";
-import Zniszczenia from "../components/Maps/destroyedPlaces";
 import BeforeAfter from "../components/BeforeAfter/BeforeAfterComponent";
+import BeforeAfterRespons from "../components/BeforeAfter/BeforeAfterComponentRespons";
 import MainPage from "../components/MainPage/MainPage";
+import OpenMap from "./OpenMap";
 import { withRouter } from "react-router-dom";
 import styled from "styled-components";
 
@@ -20,7 +21,8 @@ const Page = () => {
           <Route path="/" exact component={MainPage} />
           <Route path="/ofirmie" exact component={OFirmie} />
           <Route path="/beforeafter" component={BeforeAfter} />
-          <Route path="/zniszczenia" component={Zniszczenia} />{" "}
+          <Route path="/beforeaftermobile" component={BeforeAfterRespons} />
+          <Route path="/zniszczenia" component={OpenMap} />{" "}
           <Route path="/pozostale" component={OFirmie} />
           <Route path="/artykuly" component={OFirmie} />
           <Route path="/kontakt" component={OFirmie} />

@@ -16,8 +16,8 @@
         "MODIFIED_D": "2019/11/27",
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
-        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/68646799_2346414552093590_3901400458912071680_o.jpg?_nc_cat=101&_nc_eui2=AeGV5y5l7cw21rlXnzC7qCMo1_FkYVZTpnvBkm9RsNG5NaDNNPXrI7OcF-1YaNB63JmlNP9R-IAOcVXMZ5WWz3H8DRCr8emEUxtLdH_M_SSSig&_nc_ohc=sqpHJ8GaXgQAQn4ug9mafPUM-9nj0N23YJATvyT27ny2o11KuT_3XpbvQ&_nc_ht=scontent-waw1-1.xx&oh=c909bcfca3e9cda6476b60f66e11c956&oe=5E3ECBC3",
-        "AUTHOR": "Ben Jop"
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/14882/Galeria/046.JPG?handler=mono-jpg_js",
+        "AUTHOR": "PBC"
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +207,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/67947159_2349764348425277_2318256383822135296_n.jpg?_nc_cat=104&_nc_ohc=Ds2UnKrKemQAX8pTSmv&_nc_ht=scontent-waw1-1.xx&oh=0ed13732eb31436263c0cf2247ad1c59&oe=5EB9F05A",
-        "AUTHOR": "Ben Job"
+        "AUTHOR": "Ben Jop"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/58381725_2152503244818056_6062449207065706496_o.jpg?_nc_cat=107&_nc_ohc=NLhdeohYAA8AX_RfBCB&_nc_ht=scontent-waw1-1.xx&oh=fedbb96aa135571dd7b1d5db76ce8d42&oe=5ED70153",
-        "AUTHOR": "Ben Job"
+        "AUTHOR": "Ben Jop"
       },
       "geometry": {
         "type": "Point",
@@ -402,6 +402,215 @@
       "geometry": {
         "type": "Point",
         "coordinates": [50.019766, 22.012792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D22",
+
+        "NAME": "Ratusz",
+        "DESCRIPTION": "Budynek przebudowany w latach 1897-1900",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/86173916_10158147489852904_1793876370590269440_n.jpg?_nc_cat=109&_nc_ohc=kfORLzbxtgMAX9tKRwK&_nc_ht=scontent-waw1-1.xx&oh=6e2787fd230dc17b29c5aa1419483664&oe=5ECA05F9",
+        "AUTHOR": "E.Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037335, 22.003981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D23",
+
+        "NAME": "Zajazd pod Czerwona Brama",
+        "DESCRIPTION": "Przyjezdni, którzy mieli coś do załatwienia w Rzeszowie zostawiali tutaj konie i furmanki",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://ocdn.eu/pulscms-transforms/1/pcqk9kqTURBXy9jOWZhYzNmYTEwYmVjMzQxMzU1ZTljNjMzZjVjODNhMC5qcGVnkpUCzQPAAMLDlQIAzQPAwsOBoTAF",
+        "AUTHOR": "onet.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.040266, 22.002253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D24",
+
+        "NAME": "Zamek rzeszowski",
+        "DESCRIPTION": "Przebudowany w latach 1902-1906",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/56450548_2128070240594690_3166891326796988416_o.jpg?_nc_cat=109&_nc_ohc=yvmVQayTX8YAX82d9Xh&_nc_ht=scontent-waw1-1.xx&oh=02f22b91fca311ce8b4a3c986a843c1c&oe=5ED0EF57",
+        "AUTHOR": "Ben Jop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.032437, 22.000533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D25",
+
+        "NAME": "Kamienica przy ul. 3 Maja",
+        "DESCRIPTION": "Podpalona i zniszczona przez Niemców w 1944 roku",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/59534800_2005098402952298_4776130094169063424_o.jpg?_nc_cat=102&_nc_ohc=1ug8bCgnYGMAX940YRr&_nc_ht=scontent-waw1-1.xx&oh=8eda47ec322b9f28c33e6fccf98c4574&oe=5EC0FAAB",
+        "AUTHOR": "Vito Macaluso "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.036538, 22.001068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D26",
+
+        "NAME": "Kamienica przy ulic Słowackiego",
+        "DESCRIPTION": "Kamienice zostały wyburzone w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/15064/Galeria/226.jpg?handler=mono-jpg_js",
+        "AUTHOR": "PBC "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.036862, 22.003433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D27",
+
+        "NAME": "Budynek wytwórni octu przy skrzyżowaniu ul. Kopernika i Pl. Ofiar Getta (dawna ul. Wąska)",
+        "DESCRIPTION": "Budnek został wyburzony przez Niemców w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/15116/Galeria/278.JPG?handler=mono-jpg_js",
+        "AUTHOR": "PBC "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038423, 22.005252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D28",
+
+        "NAME": "Dom modlitwy Klaus Sądecki",
+        "DESCRIPTION": "Budnek to dzisiejsza siedziba PSL",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://i.imgur.com/QdyaaQ4.png",
+        "AUTHOR": "http://www.rzeszow.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038702, 22.005391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D29",
+
+        "NAME": "Kamienica sąsiadująca z ówczesnym Hotelem Krakowskim",
+        "DESCRIPTION": "Budnek został wyburzony przez Niemców w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://i.imgur.com/o7L0oOu.jpg",
+        "AUTHOR": "Tamten Rzeszów"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039095, 22.007579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D30",
+
+        "NAME": "Cmentarz Żydowski, niezachowały się inne zdjęcia tego miejsca",
+        "DESCRIPTION": "Budnek został zniszczony przez Niemców w czasie II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://i.imgur.com/Iu2KIVk.jpg",
+        "AUTHOR": "Tamten Rzeszów"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038733, 22.006336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D31",
+
+        "NAME": "Młyn Eksteina poźniej Legięcia",
+        "DESCRIPTION": "Na jego miejscu stoi C.H. Europa II",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://i.imgur.com/cSuMKLw.jpg",
+        "AUTHOR": "Tamten Rzeszów"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.041072, 22.003653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D32",
+
+        "NAME": "Gwoździarnia Lichta-Lezera przy skrzyżowaniu ulic Jagiellońskiej i Lisa-Kul",
+        "DESCRIPTION": "Na jego miejscu Galeria Graffica",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/14996/Galeria/158.JPG?handler=mono-jpg_js",
+        "AUTHOR": "PBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.035115, 21.997394]
       }
     }
   ]

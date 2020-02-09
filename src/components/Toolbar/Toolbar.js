@@ -10,7 +10,7 @@ const ToolbarHeader = styled.header`
   background-image: url(${LogoMapa});
   object-fit: cover;
   background-repeat: no-repeat;
-height: 100px;
+height: 120px;
   width: 100%;
 
   border-bottom: 1px solid black;z-index: 100;
@@ -32,8 +32,9 @@ height: 100px;
   .toolbar__logo a {
     color: white;
     text-decoration: none;
-    font-size: 4rem;
+    font-size: 3rem;
     color: #d9d9d9;
+    padding-left: 1vw;
   }
 
   .spacer {

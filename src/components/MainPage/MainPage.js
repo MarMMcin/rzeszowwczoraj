@@ -2,11 +2,15 @@ import React, { Component } from "react";
 
 import styled from "styled-components";
 const Container = styled.div`
-  padding-left: 20vw;
-  padding-right: 20vw;
+  padding-left: 30vw;
+  padding-right: 30vw;
   :after {
     content: "";
-    display: block;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     position: absolute;
     top: 0;
     left: 0;
@@ -17,16 +21,22 @@ const Container = styled.div`
     opacity: 0.3;
     z-index: -1;
   }
+  @media (max-width: 768px) {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
 `;
 const Photo = styled.div`
   position: absolute;
-
   padding: 0;
   opacity: 0.2;
-
   z-index: -10;
 `;
-const Content = styled.p``;
+const Content = styled.p`
+  @media (max-width: 768px) {
+    font-size: 12px;
+  }
+`;
 const TextDiv = styled.div`
   text-align: center;
 `;
@@ -90,11 +100,28 @@ const Icons = styled.div`
       left: -10%;
     }
   }
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: row;
+    .btn,
+    .btn1 {
+      width: 45px;
+      height: 45px;
+    }
+    .btn i {
+      line-height: 45px;
+      font-size: 13px;
+    }
+  }
 `;
 const StyledH1 = styled.h1`
   text-align: center;
   font-size: 4rem;
   font-family: "Amatic SC", cursive;
+
+  @media (max-width: 768px) {
+    font-size: 3rem;
+  }
 `;
 
 class OFirmie extends Component {
@@ -108,13 +135,13 @@ class OFirmie extends Component {
           <TextDiv>
             <StyledH1>Rzeszów wczoraj, dziś i jutro</StyledH1>
             <Content>
-              Strona Rzeszów, wczoraj dziś i jutro ruszyła z publikacją zdjęc
-              starego Rzeszowa jako fanpage na Facebooku 14 czerwca 2013 roku,
-              do dzisiaj zgromadziła prawie 16 tys. fanów oraz prawie 6000
+              Strona Rzeszów wczoraj, dziś i jutro ruszyła z publikacją zdjęć
+              starego Rzeszowa jako fanpage na Facebooku 14 czerwca 2013 roku.
+              Do dzisiaj zgromadziła prawie 16 tys. fanów oraz niemal 6000
               aktywnych członków w grupie dyskusyjnej. Wszystkich pasjonatów
-              miasta, oraz chętnych którzy chcą się podzielić fotografiami ze
+              miasta oraz chętnych, którzy chcą się podzielić fotografiami ze
               swoich albumów, zachęcamy do dołączenia do naszej grupy. Link do
-              fanpega oraz grupy znajduę się poniżej.
+              fanpega oraz grupy znajduje się poniżej.
             </Content>
             <Icons>
               <div className="middle">
