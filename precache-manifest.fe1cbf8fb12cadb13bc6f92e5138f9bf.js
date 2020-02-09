@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4dd5f40d76f9d6a00d4a4dcec25f6ca",
+    "revision": "07bb3dddce5bee657e57c0e65b4abf1b",
     "url": "/rzeszowwczoraj/index.html"
   },
   {
-    "revision": "0ee61010177838e78280",
-    "url": "/rzeszowwczoraj/static/css/main.b13d2f5e.chunk.css"
+    "revision": "34127603d03f7e36d04e",
+    "url": "/rzeszowwczoraj/static/css/main.f8ee88f9.chunk.css"
   },
   {
-    "revision": "25bf05662a44776c205e",
-    "url": "/rzeszowwczoraj/static/js/2.ccadfce3.chunk.js"
+    "revision": "41a8a0ab2bbeb57aa3da",
+    "url": "/rzeszowwczoraj/static/js/2.a213fb67.chunk.js"
   },
   {
-    "revision": "bacbe4135fbff86e841bcef3717677d8",
-    "url": "/rzeszowwczoraj/static/js/2.ccadfce3.chunk.js.LICENSE"
+    "revision": "71dbe724e7bd9b805702982ace8a54b9",
+    "url": "/rzeszowwczoraj/static/js/2.a213fb67.chunk.js.LICENSE"
   },
   {
-    "revision": "0ee61010177838e78280",
-    "url": "/rzeszowwczoraj/static/js/main.692f8eed.chunk.js"
+    "revision": "34127603d03f7e36d04e",
+    "url": "/rzeszowwczoraj/static/js/main.8bf664e4.chunk.js"
   },
   {
     "revision": "92bd0d5130b4d43630ae",
