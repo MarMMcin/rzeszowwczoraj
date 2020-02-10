@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/rzeszowwczoraj/static/css/main.f8ee88f9.chunk.css",
-    "main.js": "/rzeszowwczoraj/static/js/main.6d31cf5d.chunk.js",
-    "main.js.map": "/rzeszowwczoraj/static/js/main.6d31cf5d.chunk.js.map",
+    "main.js": "/rzeszowwczoraj/static/js/main.411219e6.chunk.js",
+    "main.js.map": "/rzeszowwczoraj/static/js/main.411219e6.chunk.js.map",
     "runtime-main.js": "/rzeszowwczoraj/static/js/runtime-main.00fe9ac5.js",
     "runtime-main.js.map": "/rzeszowwczoraj/static/js/runtime-main.00fe9ac5.js.map",
-    "static/js/2.a213fb67.chunk.js": "/rzeszowwczoraj/static/js/2.a213fb67.chunk.js",
-    "static/js/2.a213fb67.chunk.js.map": "/rzeszowwczoraj/static/js/2.a213fb67.chunk.js.map",
+    "static/js/2.6fcac734.chunk.js": "/rzeszowwczoraj/static/js/2.6fcac734.chunk.js",
+    "static/js/2.6fcac734.chunk.js.map": "/rzeszowwczoraj/static/js/2.6fcac734.chunk.js.map",
     "index.html": "/rzeszowwczoraj/index.html",
-    "precache-manifest.c3499e2b072a6517b52ab356e6724b3d.js": "/rzeszowwczoraj/precache-manifest.c3499e2b072a6517b52ab356e6724b3d.js",
+    "precache-manifest.8578a9e8bede43a0171a5f6eebf28546.js": "/rzeszowwczoraj/precache-manifest.8578a9e8bede43a0171a5f6eebf28546.js",
     "service-worker.js": "/rzeszowwczoraj/service-worker.js",
     "static/css/main.f8ee88f9.chunk.css.map": "/rzeszowwczoraj/static/css/main.f8ee88f9.chunk.css.map",
-    "static/js/2.a213fb67.chunk.js.LICENSE": "/rzeszowwczoraj/static/js/2.a213fb67.chunk.js.LICENSE",
+    "static/js/2.6fcac734.chunk.js.LICENSE": "/rzeszowwczoraj/static/js/2.6fcac734.chunk.js.LICENSE",
+    "static/media/dworzec1after.png": "/rzeszowwczoraj/static/media/dworzec1after.e60b3882.png",
+    "static/media/dworzec1before.png": "/rzeszowwczoraj/static/media/dworzec1before.5cec4c0d.png",
     "static/media/fara1after.png": "/rzeszowwczoraj/static/media/fara1after.1124aa58.png",
     "static/media/fara1before.png": "/rzeszowwczoraj/static/media/fara1before.b5acddf5.png",
     "static/media/logomapa.jpg": "/rzeszowwczoraj/static/media/logomapa.bbec255f.jpg",
@@ -30,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00fe9ac5.js",
-    "static/js/2.a213fb67.chunk.js",
+    "static/js/2.6fcac734.chunk.js",
     "static/css/main.f8ee88f9.chunk.css",
-    "static/js/main.6d31cf5d.chunk.js"
+    "static/js/main.411219e6.chunk.js"
   ]
 }
