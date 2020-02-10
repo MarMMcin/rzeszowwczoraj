@@ -6,13 +6,29 @@ import { Icon } from "leaflet";
 import ShowHide from "./PopUp";
 import Vehicles from "./Vehicles";
 
+const StyledPopup = styled(Popup)`
+  z-index: -1;
+`;
 const StyledShowHide = styled(ShowHide)``;
 const StyledVehicles = styled(Vehicles)``;
 const Container = styled.div`
+  .imagecont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    transition: 0.1s;
+  }
+
+  .insidePhoto:hover {
+    transform: scale(4);
+    z-index: 5000;
+  }
   a {
   }
-  .popup {
-  }
+
   .leaflet-container {
     height: calc(100vh - 121px);
     width: 100vw;
@@ -23,13 +39,7 @@ const Container = styled.div`
     border: 1px solid black;
     transition: 0.6s;
   }
-  .insidePhoto:hover {
-    zoom: 300%;
-    position: fixed;
-    top: 0%;
-    right: 0%;
-    z-index: 1000;
-  }
+
   @media (max-width: 769px) {
     .leaflet-container {
       height: calc(100vh - 56px);
@@ -52,7 +62,6 @@ export default function App() {
   return (
     <Container>
       <StyledShowHide>
-        {" "}
         <StyledVehicles />
       </StyledShowHide>
 
@@ -77,31 +86,35 @@ export default function App() {
         ))}
 
         {activePark && (
-          <Popup
-            position={[
-              activePark.geometry.coordinates[0],
-              activePark.geometry.coordinates[1]
-            ]}
-            onClose={() => {
-              setActivePark(null);
-            }}
-          >
-            <h2>{activePark.properties.NAME}</h2>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href={activePark.properties.PHOTO}
+          <div className="popup">
+            <StyledPopup
+              position={[
+                activePark.geometry.coordinates[0],
+                activePark.geometry.coordinates[1]
+              ]}
+              onClose={() => {
+                setActivePark(null);
+              }}
             >
-              {" "}
-              <img
-                className="insidePhoto"
-                src={activePark.properties.PHOTO}
-                alt=""
-              />
-            </a>
-            <p>{activePark.properties.DESCRIPTION}</p>
-            <p>Żródło: {activePark.properties.AUTHOR}</p>
-          </Popup>
+              <h2>{activePark.properties.NAME}</h2>
+
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href={activePark.properties.PHOTO}
+              >
+                {" "}
+                <img
+                  className="insidePhoto"
+                  src={activePark.properties.PHOTO}
+                  alt=""
+                />
+              </a>
+
+              <p>{activePark.properties.DESCRIPTION}</p>
+              <p>Żródło: {activePark.properties.AUTHOR}</p>
+            </StyledPopup>
+          </div>
         )}
       </Map>
     </Container>
