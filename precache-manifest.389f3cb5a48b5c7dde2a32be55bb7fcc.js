@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb04caef616c126ce6438b9de59a1b3b",
+    "revision": "ba33d852a1ee9c738373503651fa106a",
     "url": "/rzeszowwczoraj/index.html"
   },
   {
-    "revision": "3bfbe4e2fc8a8bd79b55",
+    "revision": "4050075d31f8b0afbe4f",
     "url": "/rzeszowwczoraj/static/css/main.f8ee88f9.chunk.css"
   },
   {
-    "revision": "a4e5ed792d2553888b26",
-    "url": "/rzeszowwczoraj/static/js/2.6fcac734.chunk.js"
+    "revision": "089986e744f09c12c234",
+    "url": "/rzeszowwczoraj/static/js/2.5996570b.chunk.js"
   },
   {
     "revision": "71dbe724e7bd9b805702982ace8a54b9",
-    "url": "/rzeszowwczoraj/static/js/2.6fcac734.chunk.js.LICENSE"
+    "url": "/rzeszowwczoraj/static/js/2.5996570b.chunk.js.LICENSE"
   },
   {
-    "revision": "3bfbe4e2fc8a8bd79b55",
-    "url": "/rzeszowwczoraj/static/js/main.84c789a8.chunk.js"
+    "revision": "4050075d31f8b0afbe4f",
+    "url": "/rzeszowwczoraj/static/js/main.4dd10f1b.chunk.js"
   },
   {
     "revision": "92bd0d5130b4d43630ae",
