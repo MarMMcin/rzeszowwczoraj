@@ -17,15 +17,17 @@ const Container = styled.div`
     height: calc(100vh - 121px);
     width: 100vw;
   }
-  img {
+  .insidePhoto {
     max-width: 200px;
     max-height: 200px;
+    border: 1px solid black;
   }
   @media (max-width: 769px) {
     .leaflet-container {
       height: calc(100vh - 56px);
     }
-    img {
+    .insidePhoto {
+      border: 1px solid black;
       max-width: 150px;
       max-height: 150px;
     }
@@ -84,7 +86,11 @@ export default function App() {
                 href={activePark.properties.PHOTO}
               >
                 {" "}
-                <img src={activePark.properties.PHOTO} alt="" />
+                <img
+                  className="insidePhoto"
+                  src={activePark.properties.PHOTO}
+                  alt=""
+                />
               </a>
               <p>{activePark.properties.DESCRIPTION}</p>
               <p>Żródło: {activePark.properties.AUTHOR}</p>

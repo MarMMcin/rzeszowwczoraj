@@ -39,9 +39,10 @@ class Vehicles extends Component {
           Mapa przedstawia budynki, które kiedyś znajdowały się w naszym
           mieście. Niebieska pinezka wskzuje historyczną lokalizację obiektu. Po
           jej naciśnięciu pojawiają się informacje o&nbsp;budynku oraz jego
-          fotografia. Aby powiększyć zdjęcie należy je kliknąć. Jeżeli mają
-          Państwo jakieś propozcyję/prośby o&nbsp;umieszczenie budynków, których
-          nie ma na mapie, prosimy o&nbsp;
+          fotografia. Aby powiększyć zdjęcie należy je kliknąć. Pinezki znajdują
+          się także na obrzeżach Rzeszowa, aby je zobaczyć należy pomniejszyć
+          mape. Jeżeli mają Państwo jakieś propozcyję/prośby o&nbsp;umieszczenie
+          budynków, których nie ma na mapie, prosimy o&nbsp;
           <a href="mailto:rzeszowfoto@wp.pl">kontakt</a>
         </p>
       </StyledDiv>

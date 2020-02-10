@@ -17,7 +17,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/14882/Galeria/046.JPG?handler=mono-jpg_js",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/58689282_2155848037816910_8268366589502423040_o.jpg?_nc_cat=108&_nc_ohc=FeXGyxEDUmsAQlRw-pO_tRid4S8sdEsvkZxtaB1hamBRRBjFe7vOLvJNQ&_nc_ht=scontent-waw1-1.xx&oh=e7c6dcea5320f2530625cb8b9405c2c0&oe=5E8C2985",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57935999_2154145254653855_4263970001628692480_o.jpg?_nc_cat=108&_nc_ohc=7XnMCHage3AAQmtkiULc3ujwcQazZK2iw9qbX_UKif_4DkMPi2enVNwOA&_nc_ht=scontent-waw1-1.xx&oh=6c89874c8a908939f09e08d007a07841&oe=5E4E2777",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +74,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/15100/Galeria/262.JPG?handler=mono-jpg_js",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +93,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/15103/Galeria/265.JPG?handler=mono-jpg_js",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
         "ICON": "bridge",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/16059/Galeria/most_na_wisloku_3.jpg?handler=mono-jpg_js",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -150,7 +150,7 @@
         "ICON": "bridge",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-0/s240x240/71666270_2449491828452528_2203718135842865152_o.jpg?_nc_cat=104&_nc_eui2=AeH2MBftCCbz3lvDjPQqPYI1R30-6AjtVzary8NABWXI-PCjw-v7KfICBTFhzjj5ct5Y67SdbejzCThXamRlI9QsM4P3b4QqL7C51rBOeOOcnQ&_nc_ohc=oRiMjefl8KYAQlJ0x9f5X-yqozHkffkyh8eq9FdJFx5uOm1smCTTv8H-Q&_nc_ht=scontent-waw1-1.xx&oh=2110e3f13fdbef7863e2ab9a57559f59&oe=5E427D8F",
-        "AUTHOR": "Ben Jop"
+        "AUTHOR": "archiwum Bena Jop"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +169,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57015667_2141598585908522_3032341335832002560_n.jpg?_nc_cat=105&_nc_eui2=AeFynhCm8hW3PYBOBd-aq2ykTklI76mXPQv9BDahPdrBDozIhnc-DwNj_p02_lq5jR7ubWgTjD1q8mAIL75fssYydbnhX1xCVrXfrwRs-HlQZw&_nc_ohc=XIdog4hDmOAAQl8dKAV_MFhh7WxNP2MaSUGYa9JAxmo1uxM7DoKA7SkPg&_nc_ht=scontent-waw1-1.xx&oh=cc9a8fa6c74c0ab0240ceb6c87ef5d13&oe=5E8845CF",
-        "AUTHOR": "Ben Jop"
+        "AUTHOR": "Zbiory Zbigniewa K. Wójcika/ archiwum Bena Jop "
       },
       "geometry": {
         "type": "Point",
@@ -188,11 +188,11 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://pbc.rzeszow.pl/Content/16039/Galeria/willa_aniela.jpg?handler=mono-jpg_js",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [50.03389, 21.998579]
+        "coordinates": [50.034233, 21.998241]
       }
     },
     {
@@ -207,7 +207,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/67947159_2349764348425277_2318256383822135296_n.jpg?_nc_cat=104&_nc_ohc=Ds2UnKrKemQAX8pTSmv&_nc_ht=scontent-waw1-1.xx&oh=0ed13732eb31436263c0cf2247ad1c59&oe=5EB9F05A",
-        "AUTHOR": "Ben Jop"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa/ Koloryzowane przez Bena Jop"
       },
       "geometry": {
         "type": "Point",
@@ -245,7 +245,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t31.0-8/p960x960/26952354_1648836311871979_3150078826883452247_o.jpg?_nc_cat=102&_nc_ohc=ELY7IL1SwZUAX9aAlWV&_nc_ht=scontent-waw1-1.xx&_nc_tp=6&oh=eaeb7836583f41efb45e872727e48da0&oe=5ED78601",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/58381725_2152503244818056_6062449207065706496_o.jpg?_nc_cat=107&_nc_ohc=NLhdeohYAA8AX_RfBCB&_nc_ht=scontent-waw1-1.xx&oh=fedbb96aa135571dd7b1d5db76ce8d42&oe=5ED70153",
-        "AUTHOR": "Ben Jop"
+        "AUTHOR": "Archiwum Bena Jop"
       },
       "geometry": {
         "type": "Point",
@@ -378,7 +378,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/66648307_2126547350807402_6759681270046785536_n.jpg?_nc_cat=102&_nc_ohc=YxtGWX-m7UoAX-131av&_nc_ht=scontent-waw1-1.xx&oh=0ecb764a26e6f1efd69949703249c2f5&oe=5ED12F1B",
-        "AUTHOR": "Vito Macaluso"
+        "AUTHOR": "Archiwum Vito Macaluso"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +397,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/p960x960/61728196_2725862554154910_1484335500587171840_o.jpg?_nc_cat=111&_nc_ohc=x8eGT0vu7sMAX8PKbJr&_nc_ht=scontent-waw1-1.xx&_nc_tp=6&oh=b729abd7e1e02340eed1514082473233&oe=5EBDC53F",
-        "AUTHOR": "Vito Macaluso"
+        "AUTHOR": "Archiwum Vito Macaluso"
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +454,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/56450548_2128070240594690_3166891326796988416_o.jpg?_nc_cat=109&_nc_ohc=yvmVQayTX8YAX82d9Xh&_nc_ht=scontent-waw1-1.xx&oh=02f22b91fca311ce8b4a3c986a843c1c&oe=5ED0EF57",
-        "AUTHOR": "Ben Jop"
+        "AUTHOR": "Archiwum Bena Jop"
       },
       "geometry": {
         "type": "Point",
@@ -466,14 +466,14 @@
       "properties": {
         "PLACE_ID": "D25",
 
-        "NAME": "Kamienica przy ul. 3 Maja",
+        "NAME": "Kamienica poczty przy ul. 3 Maja",
         "DESCRIPTION": "Podpalona i zniszczona przez Niemców w 1944 roku",
         "ADDRESS": "Rynek X",
         "MODIFIED_D": "2019/11/27",
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/59534800_2005098402952298_4776130094169063424_o.jpg?_nc_cat=102&_nc_ohc=1ug8bCgnYGMAX940YRr&_nc_ht=scontent-waw1-1.xx&oh=8eda47ec322b9f28c33e6fccf98c4574&oe=5EC0FAAB",
-        "AUTHOR": "Vito Macaluso "
+        "AUTHOR": "Fot. Andrzej Bujniak"
       },
       "geometry": {
         "type": "Point",
@@ -492,7 +492,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/15064/Galeria/226.jpg?handler=mono-jpg_js",
-        "AUTHOR": "PBC "
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa "
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +511,7 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/15116/Galeria/278.JPG?handler=mono-jpg_js",
-        "AUTHOR": "PBC "
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa "
       },
       "geometry": {
         "type": "Point",
@@ -606,11 +606,163 @@
         "ICON": "oldBuild",
         "NAVLINK": "hotel",
         "PHOTO": "https://www.pbc.rzeszow.pl/Content/14996/Galeria/158.JPG?handler=mono-jpg_js",
-        "AUTHOR": "PBC"
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [50.035115, 21.997394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D33",
+
+        "NAME": "Domki przy ul. Piastów",
+        "DESCRIPTION": "W ich miejscu dzisiaj stoją bloki typu NiM",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/62035738_2725863110821521_1114288905139519488_o.jpg?_nc_cat=100&_nc_ohc=Wfav8UB8wsEAX9D16Ty&_nc_ht=scontent-waw1-1.xx&oh=3dbd965b61503076f3cd91ec7e277bc6&oe=5EB750FD",
+        "AUTHOR": "archwium Huberta Babuli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.021581, 21.992143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D34",
+
+        "NAME": "Baraki przy dawniej ul.Pstrowskiego",
+        "DESCRIPTION": "W ich miejscu dzisiaj stoją bloki przy ul.Dominikańskiej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/57438150_329956821054507_8330748983727095808_n.png?_nc_cat=102&_nc_ohc=5wQJ84q8FWcAX-LG13g&_nc_ht=scontent-waw1-1.xx&oh=d1a95d14f4c5cafc35ef6b14be299102&oe=5EC17E1B",
+        "AUTHOR": "Fot. Włodzimierz Kozło"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.020937, 21.988897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D35",
+
+        "NAME": "Januszówka",
+        "DESCRIPTION": "Dom stał na miejscu dzisieszjego budynku pogotowia przy ul.Poniastowskiego ",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/85173447_188963768981673_8806286152127479808_n.jpg?_nc_cat=104&_nc_ohc=Oi8Fmg3unocAX_vR-td&_nc_ht=scontent-waw1-1.xx&oh=7fa023c015163d3735e369b32cb05779&oe=5EB8AFAA",
+        "AUTHOR": "Fot. Edward Janusz."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.0342, 21.99543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D36",
+
+        "NAME": "Plac zabaw za stacją benzynową Shell",
+        "DESCRIPTION": "rozebrany na początku XXI wieku",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/52065866_960357821019871_4085079721782542336_n.png?_nc_cat=100&_nc_ohc=rGtMrCEYdS8AX_a5q-K&_nc_ht=scontent-waw1-1.xx&oh=faf9cd524b589d4e28479fb6d5d995fe&oe=5EB7BD4C",
+        "AUTHOR": "Agencja Gezeta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.020986, 21.992877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D37",
+
+        "NAME": "Parking dla autobusów dla pracowników WSK",
+        "DESCRIPTION": "na jego miejscu stoi dzisiaj stacja Shell",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/52065866_960357821019871_4085079721782542336_n.png?_nc_cat=100&_nc_ohc=rGtMrCEYdS8AX_a5q-K&_nc_ht=scontent-waw1-1.xx&oh=faf9cd524b589d4e28479fb6d5d995fe&oe=5EB7BD4C",
+        "AUTHOR": "Facebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.020627, 21.993601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D38",
+
+        "NAME": "Dawna zabudowa Placu Wolności",
+        "DESCRIPTION": "w miejscu domków stoi dzisiaj blok, w kamienicy po lewej znajdowało się kino Muzeum",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/67651230_2461540540601548_7072744129196720128_o.jpg?_nc_cat=103&_nc_ohc=hhDcNElhhIEAX8gt-K0&_nc_ht=scontent-waw1-1.xx&oh=604e161a8dce90fb828aec8aa71e3e0a&oe=5EBE87BB",
+        "AUTHOR": "Fot. E.Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039462, 22.007839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D39",
+
+        "NAME": "Dawna zabudowa Placu Wolności",
+        "DESCRIPTION": "Wystająca na środku kamienica to nasza pinezka",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57168286_2143095659092148_3996033354540515328_o.jpg?_nc_cat=105&_nc_ohc=LwP5BFNQFUoAX_yiGx3&_nc_ht=scontent-waw1-1.xx&oh=ae60b046ccdb53f0b603f01297ff98a9&oe=5F016A12",
+        "AUTHOR": "Archiwum Bena Jop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039397, 22.010559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D40",
+
+        "NAME": "Dawna zabudowa Placu Wolności",
+        "DESCRIPTION": "Kamienica z szyldami to nasza pinezka, widok w strone ul. Targowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/84398042_489962938360897_3496842087549108224_n.jpg?_nc_cat=107&_nc_ohc=6UZ9qn_8G2gAX_ySaXI&_nc_ht=scontent-waw1-1.xx&oh=ae08bba69bbeba22190e7f85f4ec4a1d&oe=5EC1FF0D",
+        "AUTHOR": "Archiwum Bena Jop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039067, 22.008692]
       }
     }
   ]

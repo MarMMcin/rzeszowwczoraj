@@ -12,6 +12,8 @@ import zygm1before from "../../images/BeforeAfter/zygm1before.png";
 import zygm1after from "../../images/BeforeAfter/zygm1after.png";
 import fara1before from "../../images/BeforeAfter/fara1before.png";
 import fara1after from "../../images/BeforeAfter/fara1after.png";
+import dworzec1before from "../../images/BeforeAfter/dworzec1before.png";
+import dworzec1aftere from "../../images/BeforeAfter/dworzec1after.png";
 
 const photos = [
   {
@@ -71,6 +73,15 @@ const photos = [
     after: fara1after,
     text: "ul.Matejki",
     autor: "Ben Jop",
+    link:
+      "https://www.https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57104254_2145850508816663_8632266773216886784_o.jpg?_nc_cat=109&_nc_oc=AQlDqBlTj17n8vQrhBinU2LHQGXaKGWNVbSWHY0SjbxfyuefjP8LEZ6Qw9R1lU-qM7I&_nc_ht=scontent-waw1-1.xx&oh=5f98a5573fc6b8dd073c707a4ff15d3f&oe=5E3E3051.com/photo.php?fbid=2145849498816764&set=pcb.385733548823202&type=3&theater"
+  },
+  {
+    id: "0008",
+    before: dworzec1before,
+    after: dworzec1aftere,
+    text: "okolice dworca",
+    autor: "Patryk Wiercioch",
     link:
       "https://www.https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57104254_2145850508816663_8632266773216886784_o.jpg?_nc_cat=109&_nc_oc=AQlDqBlTj17n8vQrhBinU2LHQGXaKGWNVbSWHY0SjbxfyuefjP8LEZ6Qw9R1lU-qM7I&_nc_ht=scontent-waw1-1.xx&oh=5f98a5573fc6b8dd073c707a4ff15d3f&oe=5E3E3051.com/photo.php?fbid=2145849498816764&set=pcb.385733548823202&type=3&theater"
   }
