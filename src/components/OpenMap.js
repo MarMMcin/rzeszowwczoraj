@@ -6,13 +6,13 @@ import { Icon } from "leaflet";
 import ShowHide from "./PopUp";
 import Vehicles from "./Vehicles";
 
-const StyledShowHide = styled(ShowHide)`
-  transition: opacity 1s ease-in;
-`;
-const StyledVehicles = styled(Vehicles)`
-  transition: opacity 1s ease-in;
-`;
+const StyledShowHide = styled(ShowHide)``;
+const StyledVehicles = styled(Vehicles)``;
 const Container = styled.div`
+  a {
+  }
+  .popup {
+  }
   .leaflet-container {
     height: calc(100vh - 121px);
     width: 100vw;
@@ -21,6 +21,14 @@ const Container = styled.div`
     max-width: 200px;
     max-height: 200px;
     border: 1px solid black;
+    transition: 0.6s;
+  }
+  .insidePhoto:hover {
+    zoom: 300%;
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    z-index: 1000;
   }
   @media (max-width: 769px) {
     .leaflet-container {
@@ -78,23 +86,21 @@ export default function App() {
               setActivePark(null);
             }}
           >
-            <div>
-              <h2>{activePark.properties.NAME}</h2>
-              <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href={activePark.properties.PHOTO}
-              >
-                {" "}
-                <img
-                  className="insidePhoto"
-                  src={activePark.properties.PHOTO}
-                  alt=""
-                />
-              </a>
-              <p>{activePark.properties.DESCRIPTION}</p>
-              <p>Żródło: {activePark.properties.AUTHOR}</p>
-            </div>
+            <h2>{activePark.properties.NAME}</h2>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href={activePark.properties.PHOTO}
+            >
+              {" "}
+              <img
+                className="insidePhoto"
+                src={activePark.properties.PHOTO}
+                alt=""
+              />
+            </a>
+            <p>{activePark.properties.DESCRIPTION}</p>
+            <p>Żródło: {activePark.properties.AUTHOR}</p>
           </Popup>
         )}
       </Map>

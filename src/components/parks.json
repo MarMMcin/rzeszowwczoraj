@@ -764,6 +764,177 @@
         "type": "Point",
         "coordinates": [50.039067, 22.008692]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D41",
+
+        "NAME": "Budynek Hortexu",
+        "DESCRIPTION": "Dzisiaj to siedziba IPN",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57226385_2113162092053792_5921408704472678400_o.jpg?_nc_cat=108&_nc_ohc=KE9biDXnR-IAX-tCsVa&_nc_ht=scontent-waw1-1.xx&oh=26f7a79ae7f18555b9863b85e8e8043d&oe=5EB87BE4",
+        "AUTHOR": "Fot. Adam Malkiewicz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.03596, 22.002779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D42",
+
+        "NAME": "Wiercenia geologiczne pod fundamenty nowej poczty przy Moniuszki",
+        "DESCRIPTION": "budowe poczty rozpoczęto przed II Wojną Światowa",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/62217311_599154640606154_8169997171110707200_n.jpg?_nc_cat=104&_nc_ohc=CTF1yyn7TacAX910wMD&_nc_ht=scontent-waw1-1.xx&oh=06e4945567f1495297ab8d985c152aef&oe=5EC1E20D",
+        "AUTHOR": "Archiwum Hrabia Jan Koń"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037937, 21.999864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D43",
+
+        "NAME": "Fontanna z czaplą przed dworcem kolejowym wybudowana w 1948 roku, Czapla została przywieziona z czudeckiego",
+        "DESCRIPTION": "budowe poczty rozpoczęto przed II Wojną Światowa",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/85099636_523371508307370_4582157276453797888_n.png?_nc_cat=109&_nc_ohc=rllPCuXO_VsAX_Z4uKl&_nc_ht=scontent-waw1-1.xx&oh=a19afd0b6c6694c2d0fc20728ae858b6&oe=5EB86DB4",
+        "AUTHOR": "Facebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.042479, 22.007291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D44",
+
+        "NAME": "Nieznany obiekt obok Zamku Lubomirskich",
+        "DESCRIPTION": "W obrębie murów mogły być służbowe mieszkania strażników więźiennych.",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/57908860_1986731784788960_5679696431909175296_o.jpg?_nc_cat=102&_nc_ohc=rCgJbDTQabQAX-1aWBU&_nc_ht=scontent-waw1-1.xx&oh=9d9224087b88b089e337d4a5bfd0fb20&oe=5EC373CE",
+        "AUTHOR": "Fot. A.Bujniak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.032999, 22.00049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D45",
+
+        "NAME": "Kamienice po lewej stornie zamku",
+        "DESCRIPTION": "Zniszczone zostały podczas II Wojny Światowej",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/60640602_2027349687393836_6221658679746232320_n.jpg?_nc_cat=108&_nc_ohc=bGW9o8ks8WMAX8R4fI2&_nc_ht=scontent-waw1-1.xx&oh=406a809118f5f1dcfbeef6c6ee76a835&oe=5ED6623D",
+        "AUTHOR": "Fot. E.Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.032404, 21.998931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D46",
+
+        "NAME": "Kamienice stojaca na miejscu al. Cieplińskiego",
+        "DESCRIPTION": "Została wyburzona podczas budowy ulicy",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/58381008_2279620265460244_2181753166284980224_o.jpg?_nc_cat=109&_nc_ohc=vmsMMDzdUTIAX-eHqKC&_nc_ht=scontent-waw1-1.xx&oh=35d69517d9d69ce8270bf7fb25681ab3&oe=5EB765E5",
+        "AUTHOR": "Fot. E.Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.039593, 21.998347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D47",
+
+        "NAME": "Młyn nad rzeką Mikośką ",
+        "DESCRIPTION": "nieznana data wyburzenia",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/15052/Galeria/214.JPG?handler=mono-jpg_js",
+        "AUTHOR": "Podkarpacka Biblioteka Cyfrowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.040002, 22.015287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D48",
+
+        "NAME": "Budowa kanalizacji i wpuszczanie w podziemne koryto rzeki Mikośki",
+        "DESCRIPTION": " ul. Kopernika w 1936 r.",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/31435293_1757380224350920_2904996779571281920_n.jpg?_nc_cat=111&_nc_ohc=odCIqLQGbkwAX98OWlK&_nc_ht=scontent-waw1-1.xx&oh=706cf2139169400f64afcc6b55ed71db&oe=5ED73E11",
+        "AUTHOR": "Fot. E.Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038327, 22.002776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D49",
+
+        "NAME": "Elektrownia Miejska",
+        "DESCRIPTION": "Budynek częściowo zachowany do dzisiaj",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://www.pbc.rzeszow.pl/Content/15056/Galeria/218.JPG?handler=mono-jpg_js",
+        "AUTHOR": "Fot. E.Janusz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.038237, 22.012297]
+      }
     }
   ]
 }

@@ -422,6 +422,25 @@
         "type": "Point",
         "coordinates": [50.019766, 22.012792]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLACE_ID": "D22",
+
+        "NAME": "Wiercenia geologiczne pod fundamenty nowej poczty przy Moniuszki na zdjęciu poniżej.",
+        "DESCRIPTION": "budowe poczty rozpoczęto przed II Wojną Światowa",
+        "ADDRESS": "Rynek X",
+        "MODIFIED_D": "2019/11/27",
+        "ICON": "oldBuild",
+        "NAVLINK": "hotel",
+        "PHOTO": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/62217311_599154640606154_8169997171110707200_n.jpg?_nc_cat=104&_nc_ohc=CTF1yyn7TacAX910wMD&_nc_ht=scontent-waw1-1.xx&oh=06e4945567f1495297ab8d985c152aef&oe=5EC1E20D",
+        "AUTHOR": "Archiwum Hrabia Jan Koń"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.037937, 21.999864]
+      }
     }
   ]
 }
