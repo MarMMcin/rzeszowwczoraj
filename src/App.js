@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Toolbar from "./components/Toolbar/Toolbar";
 import SideDrawer from "./components/SideDrawer/SideDrawer";
-import Backdrop from "./components/Backdrop/Backdrop";
+import Backdrop from "./components/Backdrop/";
 import { HashRouter } from "react-router-dom";
 import Page from "./components/Page";
 

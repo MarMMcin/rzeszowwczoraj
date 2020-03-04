@@ -19,12 +19,12 @@ const Container = styled.div`
     justify-content: center;
     align-items: center;
     align-content: center;
-    transition: 0.1s;
   }
 
   .insidePhoto:hover {
     transform: scale(4);
-    z-index: 5000;
+    position: relative;
+    z-index: 10;
   }
   a {
   }
@@ -112,7 +112,7 @@ export default function App() {
               </a>
 
               <p>{activePark.properties.DESCRIPTION}</p>
-              <p>Żródło: {activePark.properties.AUTHOR}</p>
+              <p>Źródło: {activePark.properties.AUTHOR}</p>
             </StyledPopup>
           </div>
         )}

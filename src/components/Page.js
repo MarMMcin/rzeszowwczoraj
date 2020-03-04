@@ -3,7 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import OFirmie from "../components/OFirmie";
 import BeforeAfter from "../components/BeforeAfter/BeforeAfterComponent";
 import BeforeAfterRespons from "../components/BeforeAfter/BeforeAfterComponentRespons";
-import MainPage from "../components/MainPage/MainPage";
+import MainPage from "../components/MainPage/";
 import OpenMap from "./OpenMap";
 import { withRouter } from "react-router-dom";
 import styled from "styled-components";
