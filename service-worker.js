@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rzeszowwczoraj/precache-manifest.389f3cb5a48b5c7dde2a32be55bb7fcc.js"
+  "/rzeszowwczoraj/precache-manifest.e11d69fe22affd38aa078edb52af8260.js"
 );
 
 self.addEventListener('message', (event) => {
